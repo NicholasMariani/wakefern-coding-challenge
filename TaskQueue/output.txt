@@ -1,0 +1,13 @@
+Execution Order: [A, B, C, D]
+Task Assignments:
+Task A -> Node1
+Task B -> Node2
+Task C -> Node3
+Task D -> Node1
+After Node1 Failure:
+Task Assignments:
+Task A -> Node1
+Task B -> Node2
+Task C -> Node3
+Task D -> Node2
+BUILD SUCCESSFUL (total time: 0 seconds)

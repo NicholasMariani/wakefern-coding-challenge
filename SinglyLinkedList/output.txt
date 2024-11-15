@@ -1,0 +1,7 @@
+List after insertions: 5 10 12 15 
+Search for 12: true
+Search for 20: false
+List after deletions: 10 
+List before reversing: 10 20 30 
+List after reversing: 30 20 10 
+BUILD SUCCESSFUL (total time: 0 seconds)
